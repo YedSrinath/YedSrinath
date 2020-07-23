@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there 👋, I am Srinath Reddy!
 
-<!--
-**YedSrinath/YedSrinath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*JavaScript and Web Technologies Engineer*
 
-Here are some ideas to get you started:
+A passionate yet professional Front End Application Developer with hands on experience building enterprise applications in production environments. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Frontend: HTML, CSS, SASS, Angular, React
+- Backend: NodeJS
+- Consuming endpoints in REST and GraphQL
+- Cloud Computing: AWS
+- CI/CD: Jenkins
+
+
+- 🔭 I’m currently working on an application that is disrupting mortgage industry
+
+- 💬 Ask me about ... anything related to web applications
+
+- 📫 How to reach me: ... 📧 yed.srinath@gmail.com
+
+- 😄 Pronouns: he, him, his
+
+- ⚡ Fun fact: Apple fanboy🍏
+
